@@ -1,6 +1,7 @@
 # 直连列表
 
 # 肥羊教程
-DOMAIN-SUFFIX,pan.v1.mk,DIRECT
-DOMAIN-SUFFIX,imgtool.v1.mk,DIRECT
+- DOMAIN-SUFFIX,pan.v1.mk,DIRECT
+- DOMAIN-SUFFIX,imgtool.v1.mk,DIRECT
+
 
