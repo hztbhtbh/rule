@@ -1,5 +1,5 @@
 # 直连列表
 
 # 肥羊教程
-- DOMAIN-SUFFIX,pan.v1.mk
-- DOMAIN-SUFFIX,imgtool.v1.mk
+DOMAIN-SUFFIX,pan.v1.mk
+DOMAIN-SUFFIX,imgtool.v1.mk
